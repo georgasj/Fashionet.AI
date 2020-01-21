@@ -16,7 +16,7 @@ import io
 from PIL import Image
 import requests
 
-url = 'https://www.yoox.com/uk/women' # YOOX website scrapper
+url = 'https://www.' # website scrapper
 
 ########### CREATE THE FUNCTION clothes-scrapper to call later ##############
 
