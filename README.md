@@ -4,10 +4,10 @@ a classification CNN for fashion clothes in keras/tensorflow.
 This project aims to create an application that performs garment classification based on their category: blouse, t-shirt, trousers etc and colour(s). The basic steps are the following:
 
 1) web scrapping programs used to create the training and validation sets that we will use to train our CNN VGG16 model. 
-2) First part of training, aiming to train our model using pre-trained imagenet weights.
-3) Second part of training, aiming to fine tune the complete model
-4) Application that uses the trained model to classify clothes based on their type.
-5) A second algorithm called K-means that is able to identify the dominant colours of the garment photo.
+2) First part of CNN training, aiming to train our model using pre-trained imagenet weights.
+3) Second part of CNN training, aiming to fine tune the complete model.
+4) Application using the trained model to classify clothes based on their type.
+5) An algorithm called K-means that is able to identify the dominant colours of the garment photo.
 
 Files:
 
