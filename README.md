@@ -10,7 +10,9 @@ This project aims to create an application that performs garment classification 
 5) A second algorithm called K-means that is able to identify the dominant colours of the garment photo.
 
 Files:
+
 Jupiter notebooks:
+
 Application.ipynb - this is the app pulling all together: the trained model and the K-means algorithm.
 
 Bottleneck features Softmax.ipynb - this file trains the model on the bottleneck features
@@ -18,6 +20,7 @@ Bottleneck features Softmax.ipynb - this file trains the model on the bottleneck
 Fine-tuning Softmax.ipynb - this file trains the model's last layers 
 
 Scrappers:
+
 flickr5.py - this is a program to download photos from flickr
 
 instagram.txt - this is a command to download photos from instagram 
@@ -25,6 +28,7 @@ instagram.txt - this is a command to download photos from instagram
 websitescrap.py - this is a program for web scrapping
 
 Other files:
+
 vgg16_weights.txt - this is a placeholder, the actual file should be downloade from the internet, used for pre-trained imagenet early layers of the CNN model.
 
 chromedriver.txt - this is a placeholder, the actual file should be downloaded from the internet, used for web scrapping
