@@ -1,4 +1,4 @@
-# Fashionet.ai
+# Fashionet.AI
 a classification CNN for fashion clothes in keras/tensorflow.
 
 This project aims to create an application that performs garment classification based on their category: blouse, t-shirt, trousers etc and colour(s). The basic steps are the following:
