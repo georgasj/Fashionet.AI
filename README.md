@@ -7,7 +7,7 @@ This project aims to create an application that performs garment classification 
 2) First part of CNN training, aiming to train our model using pre-trained imagenet weights.
 3) Second part of CNN training, aiming to fine tune the complete model.
 4) Application using the trained model to classify clothes based on their type.
-5) An algorithm called K-means that is able to identify the dominant colours of the garment photo.
+5) An algorithm called K-means that is able to identify the dominant colours of the garment as seen in the photo.
 
 Files:
 
